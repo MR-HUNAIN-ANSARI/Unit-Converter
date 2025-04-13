@@ -2,7 +2,7 @@
 📊 Ultimate Unit Converter
 A powerful, responsive, and theme-customizable unit converter app built using Streamlit. Whether you're a student, engineer, data scientist, or just someone curious, this converter supports 15+ unit categories and 100+ unit types with real-time results and scientific accuracy.
 
-🔗 Live on GitHub: MR-HUNAIN-DURRANI/Unit-Converter
+🔗 Live on GitHub: https://github.com/MR-HUNAIN-ANSARI/Unit-Converter/blob/main/README.md
 
 🚀 Features
 ✅ 15+ Conversion Categories including Length, Mass, Volume, Time, Temperature, Digital Storage, Speed, and more.
